@@ -21,7 +21,8 @@ don’t, uninstall it and install it again. Otherwise, it may not work.
 ● Having the latest Arduino IDE software installed 
 from arduino.cc/en/Main/Software
 
-Schematic Diagram
+#Schematic Diagram
+
 ![Capture](https://user-images.githubusercontent.com/49518103/147738773-22705991-7c86-4a4b-b56b-eaf148a12f5d.JPG)
 
 
